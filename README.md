@@ -1,4 +1,4 @@
-"# Python_Edprojectucation
+"# Python_Education
 
 
  Hi ,me and Rumeysa are giving python education.We want our student improve themself on python and github.We will share our project from basic to advance.Enjoy your  time 
